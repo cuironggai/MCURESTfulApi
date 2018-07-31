@@ -1,2 +1,1 @@
-# MCURESTfulApi
-RESTFul api for tsinglink icvs client
+# **Q2HTTP简介**
